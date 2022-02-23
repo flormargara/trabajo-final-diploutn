@@ -25,7 +25,7 @@
 |returnOnAssets ||
 |numberOfAnalystOpinions ||
 |targetMeanPrice ||
-|debtToEquity ||
+|debtToEquity |La relación deuda / capital es una relación financiera que indica la proporción relativa de capital y deuda de los accionistas utilizada para financiar los activos de una empresa. Estrechamente relacionado con el apalancamiento https://www.investopedia.com/ask/answers/062714/what-formula-calculating-debttoequity-ratio.asp https://en.wikipedia.org/wiki/Debt-to-equity_ratio |
 |returnOnEquity ||
 |targetHighPrice ||
 |totalCash ||
