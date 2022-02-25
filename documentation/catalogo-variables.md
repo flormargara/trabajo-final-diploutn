@@ -1,4 +1,3 @@
-
 # Catalogo de Variables
 
 ## Tabla companies
@@ -46,8 +45,6 @@
 | mostRecentQuarter | Fecha del ultimo trimestre |
 | netIncomeToCommon | El 'ingreso neto aplicable a las acciones ordinarias' es el ingreso que podría otorgarse a los accionistas después de deducir los impuestos, la participación no controladora y los dividendos de las acciones preferentes. https://www.thebalance.com/net-income-applicable-to-common-shares-357584 |
 | nextFiscalYearEnd | Proximo cierre de año fiscal |
-| Nombre | Descripción |
-| numberOfAnalystOpinions |  |
 | open | El precio de apertura es el precio al que se negocia por primera vez un valor en la apertura de una bolsa en un día de negociación. El precio de la primera operación de cualquier acción cotizada es su precio de apertura diario. El precio de apertura es un marcador importante para la actividad comercial de ese día, particularmente para aquellos interesados ​​en medir los resultados a corto plazo, como los comerciantes diarios. https://www.investopedia.com/terms/o/openingprice.asp |
 | operatingCashflow | El flujo de caja operativo (FCO) es la cantidad de dinero en efectivo que genera una empresa a través de sus operaciones y el ejercicio de su actividad. https://en.wikipedia.org/wiki/Operating_cash_flow https://economipedia.com/definiciones/flujo-de-caja-operativo.html |
 | operatingMargins | El margen operativo, también conocido como margen de ingreso operativo, margen de beneficio operativo, margen EBIT y rendimiento de las ventas ( ROS ), es la relación del ingreso operativo a las ventas netas, generalmente presentado en porcentaje. https://es.wikipedia.org/wiki/Margen_operativo |
@@ -69,27 +66,26 @@
 | revenuePerShare | Las ventas por acción son una proporción que calcula los ingresos totales obtenidos por acción durante un período designado, ya sea trimestral, semestral, anual o de los últimos doce meses (TTM). Se calcula dividiendo los ingresos totales por el promedio total de acciones en circulación. También se conoce como "ingresos por acción (revenue per share)". https://www.investopedia.com/terms/s/salespershare.asp|
 | sector | Sector |
 | sharesOutstanding | Las acciones en circulación se refieren a las acciones de una empresa actualmente en poder de todos sus accionistas, incluidos los bloques de acciones en manos de inversores institucionales y las acciones restringidas propiedad de los funcionarios y personas con información privilegiada de la empresa. Las acciones en circulación se muestran en el balance de una empresa bajo el título "Capital social". https://en.wikipedia.org/wiki/Shares_outstanding https://www.investopedia.com/terms/o/outstandingshares.asp |
-| sharesPercentSharesOut |  |
-| sharesShort |  |
+| sharesPercentSharesOut | Las acciones en circulación se refieren a las acciones de una empresa actualmente en poder de todos sus accionistas, incluidos los bloques de acciones en manos de inversores institucionales y las acciones restringidas propiedad de los funcionarios y personas con información privilegiada de la empresa. Las acciones en circulación se muestran en el balance de una empresa bajo el título "Capital social". El número de acciones en circulación se utiliza para calcular métricas clave como la capitalización de mercado de una empresa, así como sus ganancias por acción (EPS) y flujo de efectivo por acción (CFPS). El número de acciones en circulación de una empresa no es estático y puede fluctuar enormemente con el tiempo. https://www.investopedia.com/terms/o/outstandingshares.asp|
+| sharesShort | Acciones en corto. Una posición corta, o 'short', se crea cuando un comerciante vende un valor primero con la intención de recomprarlo o cubrirlo más tarde a un precio más bajo. Un comerciante puede decidir vender en corto un valor cuando cree que es probable que el precio de ese valor disminuya en el futuro cercano. Hay dos tipos de posiciones cortas: desnudas y cubiertas. https://www.investopedia.com/terms/s/short.asp  |
 | sharesShortPriorMonth |  |
 | shortName | Nombre de la compañía |
 | shortPercentOfFloat |  |
-| shortRatio |  |
+| shortRatio | El índice de interés corto toma el número de acciones en corto en una acción y lo divide por el volumen de negociación diario promedio de la acción. En pocas palabras, la relación puede ayudar a un inversionista a descubrir muy rápidamente si una acción está muy corta o no en corto en comparación con su volumen de negociación diario promedio. https://www.investopedia.com/terms/s/shortinterestratio.asp |
 | symbol | Simbolo de la empresa en NASDAQ |
-| targetHighPrice |  |
-| targetLowPrice |  |
-| targetMeanPrice |  |
+| targetHighPrice | Un precio objetivo es la proyección de un analista del precio futuro de un valor. Los objetivos de precio pueden referirse a todo tipo de valores, desde productos de inversión complejos hasta acciones y bonos. Al establecer el precio objetivo de una acción, un analista está tratando de determinar el valor de la acción y dónde estará el precio en 12 o 18 meses. En última instancia, los objetivos de precios dependen de la valoración de la empresa que emite las acciones. https://www.investopedia.com/terms/p/pricetarget.asp https://www.investopedia.com/investing/target-prices-and-sound-investing/|
+| targetLowPrice | Un precio objetivo es la proyección de un analista del precio futuro de un valor. Los objetivos de precio pueden referirse a todo tipo de valores, desde productos de inversión complejos hasta acciones y bonos. Al establecer el precio objetivo de una acción, un analista está tratando de determinar el valor de la acción y dónde estará el precio en 12 o 18 meses. En última instancia, los objetivos de precios dependen de la valoración de la empresa que emite las acciones. https://www.investopedia.com/terms/p/pricetarget.asp https://www.investopedia.com/investing/target-prices-and-sound-investing/|
+| targetMeanPrice | Un precio objetivo es la proyección de un analista del precio futuro de un valor. Los objetivos de precio pueden referirse a todo tipo de valores, desde productos de inversión complejos hasta acciones y bonos. Al establecer el precio objetivo de una acción, un analista está tratando de determinar el valor de la acción y dónde estará el precio en 12 o 18 meses. En última instancia, los objetivos de precios dependen de la valoración de la empresa que emite las acciones. https://www.investopedia.com/terms/p/pricetarget.asp https://www.investopedia.com/investing/target-prices-and-sound-investing/|
 | totalCash | El dinero efectivo (habitualmente denominado dinero en efectivo o solo efectivo) es el dinero en forma de monedas o papel moneda (billetes) que se utiliza para realizar pagos y depósitos. https://www.investopedia.com/terms/c/cash.asp https://es.wikipedia.org/wiki/Dinero_en_efectivo |
-| totalCashPerShare |  |
+| totalCashPerShare |El efectivo por acción (CPS) mide cuánto efectivo tiene disponible una empresa por acción. También se puede expresar como una relación financiera que se puede calcular sumando el efectivo total de una empresa en su balance general, incluidas las inversiones a corto plazo fáciles de liquidar, y luego dividiendo esa cifra por el número de acciones en circulación. https://www.investopedia.com/terms/c/cash-per-share.asp|
 | totalDebt | La deuda es algo, generalmente dinero, que una parte toma prestado de otra. Muchas corporaciones e individuos utilizan la deuda para hacer grandes compras que no podrían pagar en circunstancias normales. Un acuerdo de deuda le da a la parte prestataria permiso para pedir prestado dinero con la condición de que se pague en una fecha posterior, generalmente con intereses. https://en.wikipedia.org/wiki/Debt https://www.investopedia.com/terms/d/debt.asp |
-| totalRevenue |  |
-| trailingAnnualDividendRate |  |
+| totalRevenue |Los ingresos son el dinero generado por las operaciones comerciales normales, calculados como el precio de venta promedio multiplicado por el número de unidades vendidas. Es la cifra de la línea superior (o ingreso bruto) de la cual se restan los costos para determinar el ingreso neto. Los ingresos también se conocen como ventas en el estado de resultados. https://www.investopedia.com/terms/r/revenue.asp https://es.wikipedia.org/wiki/Ingreso_total  |
+| trailingAnnualDividendRate | https://finance.zacks.com/difference-between-forward-trailing-dividends-4009.html  |
 | trailingAnnualDividendYield |  |
 | trailingEps | Las ganancias finales por acción (EPS, por sus siglas en inglés) son las ganancias de una empresa generadas durante un período anterior (a menudo un año fiscal) informadas por acción. https://www.investopedia.com/terms/t/trailingeps.asp https://financial-dictionary.thefreedictionary.com/Trailing+EPS |
-| trailingPE |  |
-| twoHundredDayAverage |  |
-| volume |
-
+| trailingPE | La relación precio-beneficio (P/E) móvil es un múltiplo de valoración relativa que se basa en los últimos 12 meses de ganancias reales. Se calcula tomando el precio actual de las acciones y dividiéndolo por las ganancias por acción (BPA) de los últimos 12 meses. https://www.investopedia.com/terms/t/trailingpe.asp |
+| twoHundredDayAverage |El SMA de 200 días, que cubre aproximadamente 40 semanas de negociación, se usa comúnmente en el comercio de acciones para determinar la tendencia general del mercado. Siempre que el precio de una acción se mantenga por encima de la SMA de 200 días en el marco de tiempo diario, generalmente se considera que la acción tiene una tendencia alcista general. Una alternativa de uso frecuente a la SMA de 200 días es un promedio móvil de 255 días que representa el comercio del año anterior. https://www.investopedia.com/terms/m/movingaverage.asp https://www.investopedia.com/ask/answers/013015/why-200-simple-moving-average-sma-so-common-traders-and-analysts.asp https://www.investopedia.com/ask/answers/06/differencebetweenmas.asp|
+| volume | El volumen es la cantidad de un activo o valor que cambia de manos durante un período de tiempo, a menudo en el transcurso de un día. Por ejemplo, el volumen de negociación de acciones se referiría a la cantidad de acciones de un valor negociado entre su apertura y cierre diarios. El volumen de negociación y los cambios en el volumen a lo largo del tiempo son datos importantes para los operadores técnicos. https://www.investopedia.com/terms/v/volume.asp
 
 
 
@@ -103,7 +99,8 @@
 |High          |Precio maximo diario|
 |Low          |Precio minimo diario|
 |Close          |Precio de cierre|
-|Adj Close          ||
-|Volumen          ||
-|Dividends          ||
-|Stock Splits          ||
+|Adj Close          |El precio de cierre ajustado modifica el precio de cierre de una acción para reflejar el valor de esa acción después de contabilizar cualquier acción corporativa. https://www.investopedia.com/terms/a/adjusted_closing_price.asp|
+|Volumen          |Volumen diario negociado|
+|Dividends          |  Un dividendo es la distribución de parte de las ganancias de una empresa a una clase de sus accionistas, según lo determine la junta directiva de la empresa. https://www.investopedia.com/terms/d/dividend.asp|
+|Stock Splits          |Una división de acciones ocurre cuando una empresa aumenta el número de sus acciones para aumentar la liquidez de las acciones. Aunque la cantidad de acciones en circulación aumenta en un múltiplo específico, el valor total en dólares de todas las acciones en circulación sigue siendo el mismo, porque una división no cambia fundamentalmente el valor de la empresa. https://www.investopedia.com/terms/s/stocksplit.asp|
+
