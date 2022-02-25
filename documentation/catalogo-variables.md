@@ -1,99 +1,95 @@
+
 # Catalogo de Variables
 
 ## Tabla companies
 
 |Nombre                |Descripción                         |
 |----------------|-----------------------------|
-|symbol | Simbolo de la empresa en NASDAQ         |
-|shortName|Nombre de la compañía |
-|sector | Sector|
-|industry | Industria| 
-|country | Pais |
-|fullTimeEmployees | Empleados a tiempo completo|
-|ebitdaMargins |El margen EBIT es un ratio financiero que mide la rentabilidad de una empresa en función a las ganancias obtenidas antes del pago de tributos e intereses. Se calcula dividiendo el EBIT (o BAIT en español) entre las ventas o ingresos netos. https://es.tradingview.com/support/solutions/43000597075/ https://economipedia.com/definiciones/ebit-margen-margen-bait.html 
-|profitMargins |El margen de beneficio, el margen neto, el margen de beneficio neto o el índice de beneficio neto es una medida de la rentabilidad. Se calcula al encontrar la ganancia neta como un porcentaje de los ingresos. https://es.wikipedia.org/wiki/Margen_de_beneficio |
-|grossMargins |El margen bruto es la diferencia entre los ingresos y el costo de los bienes vendidos (COGS) dividido por los ingresos. El margen bruto se expresa como un porcentaje. Generalmente, se calcula como el precio de venta de un artículo, menos el costo de los bienes vendidos (sin incluir los costos fijos indirectos) https://es.wikipedia.org/wiki/Margen_bruto|
-|operatingCashflow |El flujo de caja operativo (FCO) es la cantidad de dinero en efectivo que genera una empresa a través de sus operaciones y el ejercicio de su actividad. https://en.wikipedia.org/wiki/Operating_cash_flow https://economipedia.com/definiciones/flujo-de-caja-operativo.html
-|revenueGrowth |El 'revenueGrowth' ilustra los aumentos/disminuciones de los ingresos a lo largo del tiempo. Se utiliza para medir qué tan rápido se está expandiendo un negocio. https://ycharts.com/glossary/terms/revenue_growth
-|operatingMargins |El margen operativo, también conocido como margen de ingreso operativo, margen de beneficio operativo, margen EBIT y rendimiento de las ventas ( ROS ), es la relación del ingreso operativo a las ventas netas, generalmente presentado en porcentaje. https://es.wikipedia.org/wiki/Margen_operativo
-|targetLowPrice ||
-|recommendationKey ||
-|grossProfits |La ganancia bruta representa el ingreso o la ganancia que queda después de restar los costos de producción de los ingresos. Los ingresos son la cantidad de ingresos generados por la venta de bienes y servicios de una empresa. El beneficio bruto ayuda a los inversores a determinar cuánto beneficio obtiene una empresa de la producción y venta de sus bienes y servicios. La ganancia bruta a veces se denomina ingreso bruto. https://www.investopedia.com/ask/answers/101314/what-are-differences-between-gross-profit-and-net-income.asp https://en.wikipedia.org/wiki/Gross_income|
-|freeCashflow ||
-|earningsGrowth ||
-|currentRatio ||
-|returnOnAssets |La rentabilidad económica mide la tasa de devolución producida por un beneficio económico (anterior a los intereses y los impuestos) respecto al capital total, incluyendo todas las cantidades prestadas y el patrimonio neto (que sumados forman el activo total). Además es totalmente independiente de la estructura financiera de la empresa https://es.wikipedia.org/wiki/Rentabilidad_econ%C3%B3mica https://www.investopedia.com/terms/r/returnonassets.asp|
-|numberOfAnalystOpinions ||
-|targetMeanPrice ||
-|debtToEquity |La relación deuda / capital es una relación financiera que indica la proporción relativa de capital y deuda de los accionistas utilizada para financiar los activos de una empresa. Estrechamente relacionado con el apalancamiento https://www.investopedia.com/ask/answers/062714/what-formula-calculating-debttoequity-ratio.asp https://en.wikipedia.org/wiki/Debt-to-equity_ratio |
-|returnOnEquity |En finanzas, la rentabilidad financiera, rentabilidad para el accionista o «ROE» (por sus iniciales en inglés, Return on equity) relaciona el beneficio económico con los recursos propios necesarios para obtener ese lucro. Para una empresa, el ROE indica la rentabilidad que obtienen los accionistas (únicos proveedores de capital que no tienen una rentabilidad asegurada) sobre el capital que han invertido, excluyendo recursos de terceros, como la deuda financiera. La rentabilidad financiera puede entenderse como una medida del beneficio que obtiene una compañía con relación a los fondos invertidos por los accionistas. Se suele expresar como porcentaje https://es.wikipedia.org/wiki/Rentabilidad_financiera https://www.investopedia.com/terms/r/returnonequity.asp|
-|targetHighPrice ||
-|totalCash |El dinero efectivo (habitualmente denominado dinero en efectivo o solo efectivo) es el dinero en forma de monedas o papel moneda (billetes) que se utiliza para realizar pagos y depósitos. https://www.investopedia.com/terms/c/cash.asp https://es.wikipedia.org/wiki/Dinero_en_efectivo|
-|totalDebt |La deuda es algo, generalmente dinero, que una parte toma prestado de otra. Muchas corporaciones e individuos utilizan la deuda para hacer grandes compras que no podrían pagar en circunstancias normales. Un acuerdo de deuda le da a la parte prestataria permiso para pedir prestado dinero con la condición de que se pague en una fecha posterior, generalmente con intereses. https://en.wikipedia.org/wiki/Debt https://www.investopedia.com/terms/d/debt.asp|
-|totalRevenue ||
-|totalCashPerShare ||
-|financialCurrency ||
-|revenuePerShare ||
-|quickRatio ||
-|recommendationMean ||
-|exchange ||
-|exchangeTimezoneShortName ||
-|forwardPE |La relación precio-beneficio a plazo es una versión de la relación precio-beneficio (P/E) que utiliza las ganancias pronosticadas para el cálculo de P/E. Si bien las ganancias utilizadas en esta fórmula son solo una estimación y no son tan confiables como los datos de ganancias actuales o históricos, aún existen beneficios en el análisis P/E estimado. https://corporatefinanceinstitute.com/resources/knowledge/valuation/forward-pe-ratio/ https://www.investopedia.com/terms/f/forwardpe.asp|
-|forwardEps||
-|sharesOutstanding |Las acciones en circulación se refieren a las acciones de una empresa actualmente en poder de todos sus accionistas, incluidos los bloques de acciones en manos de inversores institucionales y las acciones restringidas propiedad de los funcionarios y personas con información privilegiada de la empresa. Las acciones en circulación se muestran en el balance de una empresa bajo el título "Capital social". https://en.wikipedia.org/wiki/Shares_outstanding https://www.investopedia.com/terms/o/outstandingshares.asp|
-|bookValue|En contabilidad, el valor en libros es el valor de un activo de acuerdo con el saldo de su cuenta de balance. Para los activos, el valor se basa en el costo original del activo menos los costos de depreciación, amortización o deterioro del activo. https://www.investopedia.com/terms/b/bookvalue.asp https://www.investopedia.com/articles/investing/110613/market-value-versus-book-value.asp https://en.wikipedia.org/wiki/Book_value|
-|sharesShort||
-|floatShares||
-|sharesPercentSharesOut||
-|lastFiscalYearEnd|Cierre del ultimo año fiscal|
-|nextFiscalYearEnd|Proximo cierre de año fiscal|
-|mostRecentQuarter|Fecha del ultimo trimestre|
-|lastSplitDate| Fecha del ultimo desdoblamiento de acciones |
-|lastSplitFactor|Ultimo factor de desdoblamiento de acciones https://es.wikipedia.org/wiki/Desdoblamiento_de_acciones https://www.forbes.com/advisor/investing/what-is-a-stock-split/ |
-|heldPercentInstitutions||
-|heldPercentInsiders||
-|netIncomeToCommon|El 'ingreso neto aplicable a las acciones ordinarias' es el ingreso que podría otorgarse a los accionistas después de deducir los impuestos, la participación no controladora y los dividendos de las acciones preferentes. https://www.thebalance.com/net-income-applicable-to-common-shares-357584|
-|trailingEps|Las ganancias finales por acción (EPS, por sus siglas en inglés) son las ganancias de una empresa generadas durante un período anterior (a menudo un año fiscal) informadas por acción. https://www.investopedia.com/terms/t/trailingeps.asp https://financial-dictionary.thefreedictionary.com/Trailing+EPS|
-|priceToBook|La 'relación precio-valor contable' compara el valor de mercado de una empresa con su valor contable. El valor de mercado de una empresa es el precio de sus acciones multiplicado por el número de acciones en circulación. El valor en libros es el activo neto de una empresa. https://es.wikipedia.org/wiki/Ratio_precio-valor_contable https://www.investopedia.com/terms/p/price-to-bookratio.asp
-|priceToSalesTrailing12Months|El período típico de 12 meses que se usa para las ventas en la relación P/S es generalmente los últimos cuatro trimestres (también llamados 12 meses posteriores o TTM), o el año fiscal (FY) más reciente o actual. Una relación P/S que se basa en las ventas pronosticadas para el año en curso se denomina relación P/S a futuro. https://www.investopedia.com/terms/p/price-to-salesratio.asp |
-|shortRatio||
-|beta||
-|enterpriseValue|El valor empresarial (EV) es una medida del valor total de una empresa, a menudo utilizada como una alternativa más integral a la capitalización del mercado de valores. EV incluye en su cálculo la capitalización de mercado de una empresa, pero también la deuda a corto y largo plazo, así como cualquier efectivo en el balance de la empresa. El valor empresarial es una métrica popular utilizada para valorar una empresa para una posible adquisición. https://en.wikipedia.org/wiki/Enterprise_value https://www.investopedia.com/terms/e/enterprisevalue.asp
-|earningsQuarterlyGrowth||
-|pegRatio|La relación precio/ganancias/crecimiento (relación PEG) es la relación precio/ganancias (P/E) de una acción dividida por la tasa de crecimiento de sus ganancias durante un período de tiempo específico. La relación PEG se utiliza para determinar el valor de una acción y, al mismo tiempo, tiene en cuenta el crecimiento esperado de las ganancias de la empresa, y se cree que proporciona una imagen más completa que la relación P/E más estándar. https://es.wikipedia.org/wiki/Ratio_PEG https://www.investopedia.com/terms/p/pegratio.asp|
-|shortPercentOfFloat||	
-|sharesShortPriorMonth||	
-|previousClose||	
-|regularMarketOpen||	
-|twoHundredDayAverage||	
-|trailingAnnualDividendYield||	
-|payoutRatio||	
-|regularMarketDayHigh||	
-|averageDailyVolume10Day||	
-|regularMarketPreviousClose||	
-|fiftyDayAverage||	
-|trailingAnnualDividendRate||	
-|open||	
-|averageVolume10days||	
-|dividendRate||	
-|exDividendDate||	
-|regularMarketDayLow||	
-|trailingPE||	
-|regularMarketVolume||	
-|marketCap||	
-|averageVolume||	
-|dayLow||	
-|ask||	
-|askSize||	
-|volume||	
-|fiftyTwoWeekHigh||	
-|fiveYearAvgDividendYield||	
-|fiftyTwoWeekLow||	
-|bid||	
-|dividendYield||	
-|bidSize||	
-|dayHigh||	
-|regularMarketPrice||
+| ask |El término "bid" y "ask" (también conocido como "bid" y "offer") se refiere a una cotización de precio bidireccional que indica el mejor precio potencial al que se puede vender y comprar un valor en un momento dado. . El "bid" representa el precio máximo que un comprador está dispuesto a pagar por una acción u otro valor. El "ask representa el precio mínimo que un vendedor está dispuesto a aceptar por ese mismo valor. Un intercambio o transacción ocurre cuando un comprador en el mercado está dispuesto a pagar la mejor oferta disponible, o está dispuesto a vender a la oferta más alta. La diferencia entre los precios de compra y venta, o el diferencial, es un indicador clave de la liquidez del activo. En general, cuanto menor sea el diferencial, mejor será la liquidez  https://www.investopedia.com/terms/b/bid-and-ask.asp https://www.investopedia.com/terms/a/ask.asp|
+| askSize | El tamaño de venta es la cantidad de un valor que un market maker ofrece vender al precio de venta. Cuanto mayor sea el tamaño de la demanda, más oferta habrá que la gente quiera vender. Cuando un comprador busca comprar un valor, puede aceptar el precio solicitado y comprar hasta el monto solicitado a ese precio. Si el comprador desea adquirir más seguridad sobre el tamaño actual de la oferta, es posible que deba pagar un precio ligeramente más alto al siguiente vendedor disponible. https://www.investopedia.com/terms/a/asksize.asp https://investinganswers.com/dictionary/a/ask-size|
+| averageDailyVolume10Day | El Volumen Promedio Diario de Negociación (ADTV) es un indicador técnico utilizado por los inversionistas que se refiere a la cantidad de acciones de una acción en particular que, en promedio, cambian de manos durante un solo día de negociación. El volumen comercial diario promedio se puede calcular para cualquier período de tiempo (5 días, 10 días, etc.). El volumen de negociación diario promedio es una métrica importante porque el volumen de negociación alto o bajo atrae a diferentes tipos de comerciantes e inversores. Muchos comerciantes e inversores prefieren un volumen de negociación diario promedio más alto en comparación con un volumen de negociación bajo, porque con un volumen alto es más fácil entrar y salir de posiciones. Los activos de bajo volumen tienen menos compradores y vendedores y, por lo tanto, puede ser más difícil entrar o salir al precio deseado. https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/average-daily-trading-volume-adtv/ https://www.investopedia.com/terms/a/averagedailytradingvolume.asp|
+| averageVolume | El Volumen Promedio es el volumen total de un período específico dividido por el número de barras en ese mismo período. https://www.fidelity.com/learning-center/trading-investing/technical-analysis/technical-indicator-guide/average-volume|
+| averageVolume10days | El Volumen Promedio es el volumen total de un período específico (en este caso 10 dias) dividido por el número de barras en ese mismo período. https://www.fidelity.com/learning-center/trading-investing/technical-analysis/technical-indicator-guide/average-volume|
+| beta | Beta es una medida de la volatilidad de una acción en relación con el mercado general. Por definición, un mercado, como el índice S&P 500, tiene una beta de 1,0, y las acciones individuales se clasifican según cuánto se desvían del mercado. https://www.investopedia.com/investing/beta-know-risk/ https://www.investopedia.com/ask/answers/102714/whats-difference-between-alpha-and-beta.asp|
+| bid | El término "bid" y "ask" (también conocido como "bid" y "offer") se refiere a una cotización de precio bidireccional que indica el mejor precio potencial al que se puede vender y comprar un valor en un momento dado. . El "bid" representa el precio máximo que un comprador está dispuesto a pagar por una acción u otro valor. El "ask representa el precio mínimo que un vendedor está dispuesto a aceptar por ese mismo valor. Un intercambio o transacción ocurre cuando un comprador en el mercado está dispuesto a pagar la mejor oferta disponible, o está dispuesto a vender a la oferta más alta. La diferencia entre los precios de compra y venta, o el diferencial, es un indicador clave de la liquidez del activo. En general, cuanto menor sea el diferencial, mejor será la liquidez https://www.investopedia.com/terms/b/bid-and-ask.asp https://www.investopedia.com/terms/b/bid.asp|
+| bidSize | El tamaño de la oferta representa la cantidad de un valor que los inversores están dispuestos a comprar a un precio de oferta específico. Para la mayoría de los inversores, que ven cotizaciones de nivel 1 en sus pantallas de negociación, el tamaño de la oferta representa la cantidad de acciones que los inversores están dispuestos a comprar al mejor precio de oferta disponible. https://www.investopedia.com/terms/b/bidsize.asp |
+| bookValue | En contabilidad, el valor en libros es el valor de un activo de acuerdo con el saldo de su cuenta de balance. Para los activos, el valor se basa en el costo original del activo menos los costos de depreciación, amortización o deterioro del activo. https://www.investopedia.com/terms/b/bookvalue.asp https://www.investopedia.com/articles/investing/110613/market-value-versus-book-value.asp https://en.wikipedia.org/wiki/Book_value |
+| country | Pais |
+| currentRatio |El 'Current Ratio' es un índice de liquidez que mide la capacidad de una empresa para pagar las obligaciones a corto plazo o las que vencen dentro de un año. Les dice a los inversores y analistas cómo una empresa puede maximizar los activos actuales en su balance general para satisfacer su deuda actual y otras cuentas por pagar. https://www.investopedia.com/terms/c/currentratio.asp  https://www.investopedia.com/ask/answers/062714/what-are-main-differences-between-current-ratio-and-quick-ratio.asp|
+| dayHigh | El 'Today's high' se refiere al precio de cotización más alto intradía de un valor. Está representado por el punto más alto en el gráfico de acciones de un día. Esto se puede contrastar con el mínimo de hoy, que es el precio mínimo intradiario del día de negociación. El máximo de hoy proporciona información a los comerciantes e inversores sobre el precio de una acción, qué noticias están impulsando el precio ese día, cuál podría ser un buen punto de entrada y salida de la acción y cuál podría ser la perspectiva futura del precio de la acción. https://www.investopedia.com/terms/t/todayshigh.asp https://www.investopedia.com/terms/h/high-low-index.asp|
+| dayLow |El 'Today's low' es el precio de cotización mínimo intradiario de un valor. El mínimo de hoy es el precio más bajo al que se negocia una acción en el transcurso de un día de negociación. https://www.investopedia.com/terms/t/todayslow.asp https://www.investopedia.com/terms/h/high-low-index.asp|
+| debtToEquity | La relación deuda / capital es una relación financiera que indica la proporción relativa de capital y deuda de los accionistas utilizada para financiar los activos de una empresa. Estrechamente relacionado con el apalancamiento https://www.investopedia.com/ask/answers/062714/what-formula-calculating-debttoequity-ratio.asp https://en.wikipedia.org/wiki/Debt-to-equity_ratio |
+| dividendRate |  La tasa de dividendos es el total de pagos de dividendos esperados de una inversión, fondo o cartera expresados ​​en forma anualizada más cualquier dividendo adicional no recurrente que un inversionista pueda recibir durante ese período. Según las preferencias y la estrategia de la empresa, la tasa de dividendos puede ser fija o ajustable.  https://www.investopedia.com/terms/d/dividendrate.asp https://www.investopedia.com/ask/answers/011315/what-difference-between-yield-and-dividend.asp|
+| dividendYield |  La rentabilidad por dividendo, expresada como porcentaje, es una relación financiera (dividendo/precio) que muestra cuánto paga una empresa en dividendos cada año en relación con el precio de sus acciones. El recíproco de la rentabilidad por dividendo es la relación precio/dividendo. https://www.investopedia.com/terms/d/dividendyield.asp https://www.investopedia.com/ask/answers/011315/what-difference-between-yield-and-dividend.asp|
+| earningsGrowth |El crecimiento de las ganancias es el cambio en el ingreso neto informado de una entidad durante un período de tiempo. La medida suele ser una comparación de un período a otro, como de un trimestre a otro, de un año a otro, o una comparación de los resultados del trimestre actual con los del mismo trimestre del año anterior. El concepto también se puede utilizar para estimar el crecimiento en un período futuro sobre el período actual. Es más probable que un alto nivel de crecimiento de las ganancias haga subir el precio de mercado de las acciones de una empresa. Por el contrario, si la tasa de crecimiento de las ganancias disminuye, esto puede desencadenar una liquidación por parte de los inversores que reduce el precio de las acciones. https://www.accountingtools.com/articles/2017/5/6/earnings-growth https://en.wikipedia.org/wiki/Earnings_growth  |
+| earningsQuarterlyGrowth |El crecimiento de los ingresos trimestrales es un aumento en las ventas de una empresa en un trimestre en comparación con las ventas de un trimestre diferente. La cifra de ventas del trimestre actual se puede comparar año tras año (por ejemplo, ventas del 3T del año 1 en comparación con las ventas del 3T del año 2) o secuencialmente (ventas del 3T del año 1 en comparación con las ventas del 4T del año 1). Esto les da a los analistas, inversionistas y partes interesadas adicionales una idea de cuánto aumentan las ventas de una empresa con el tiempo. https://www.investopedia.com/terms/q/quarterlyrevenuegrowth.asp https://corporatefinanceinstitute.com/resources/knowledge/finance/quarterly-revenue-growth/  |
+| ebitdaMargins | El margen EBIT es un ratio financiero que mide la rentabilidad de una empresa en función a las ganancias obtenidas antes del pago de tributos e intereses. Se calcula dividiendo el EBIT (o BAIT en español) entre las ventas o ingresos netos. https://es.tradingview.com/support/solutions/43000597075/ https://economipedia.com/definiciones/ebit-margen-margen-bait.html |
+| enterpriseValue | El valor empresarial (EV) es una medida del valor total de una empresa, a menudo utilizada como una alternativa más integral a la capitalización del mercado de valores. EV incluye en su cálculo la capitalización de mercado de una empresa, pero también la deuda a corto y largo plazo, así como cualquier efectivo en el balance de la empresa. El valor empresarial es una métrica popular utilizada para valorar una empresa para una posible adquisición. https://en.wikipedia.org/wiki/Enterprise_value https://www.investopedia.com/terms/e/enterprisevalue.asp |
+| exDividendDate | Ex-dividendo describe una acción que se negocia sin el valor del próximo pago de dividendos. La fecha ex-dividendo o "ex-date" es el día en que las acciones comienzan a cotizar sin el valor de su próximo pago de dividendos. Por lo general, la fecha ex-dividendo de una acción es un día hábil antes de la fecha de registro, lo que significa que un inversionista que compre las acciones en su fecha ex-dividendo o posterior no será elegible para recibir el dividendo declarado. Más bien, el pago de dividendos se realiza a quien poseía las acciones el día anterior a la fecha ex-dividendo. https://en.wikipedia.org/wiki/Ex-dividend_date https://www.investopedia.com/terms/e/ex-dividend.asp|
+| fiftyDayAverage | En estadística, una media móvil es un cálculo que se utiliza para analizar puntos de datos mediante la creación de una serie de medias de diferentes subconjuntos del conjunto completo de datos. En finanzas, un promedio móvil (MA) es un indicador bursátil que se usa comúnmente en el análisis técnico. La razón para calcular el promedio móvil de una acción es ayudar a suavizar los datos de precios mediante la creación de un precio promedio constantemente actualizado. https://www.investopedia.com/terms/m/movingaverage.asp https://www.investopedia.com/ask/answers/012815/why-50-simple-moving-average-sma-so-common-traders-and-analysts.asp https://www.investopedia.com/ask/answers/06/differencebetweenmas.asp |
+| fiftyTwoWeekHigh |El máximo/mínimo de 52 semanas es el precio más alto y más bajo al que se ha negociado un valor, como una acción, durante el período de tiempo que equivale a un año. Un máximo/mínimo de 52 semanas es un indicador técnico utilizado por algunos comerciantes e inversores que ven estas cifras como un factor importante en el análisis del valor actual de una acción y como predictor del movimiento futuro de su precio. Un inversor puede mostrar un mayor interés en una acción en particular a medida que su precio se acerca al extremo superior o inferior de su rango de precios de 52 semanas https://www.investopedia.com/terms/1/52weekhighlow.asp |
+| fiftyTwoWeekLow |El máximo/mínimo de 52 semanas es el precio más alto y más bajo al que se ha negociado un valor, como una acción, durante el período de tiempo que equivale a un año. Un máximo/mínimo de 52 semanas es un indicador técnico utilizado por algunos comerciantes e inversores que ven estas cifras como un factor importante en el análisis del valor actual de una acción y como predictor del movimiento futuro de su precio. Un inversor puede mostrar un mayor interés en una acción en particular a medida que su precio se acerca al extremo superior o inferior de su rango de precios de 52 semanas https://www.investopedia.com/terms/1/52weekhighlow.asp  |
+| fiveYearAvgDividendYield | El rendimiento de dividendos muestra cuánto paga una empresa en dividendos cada año en relación con el precio de sus acciones. En ausencia de ganancias de capital, el rendimiento de dividendos es el rendimiento de la inversión de una acción. Se calcula como el Dividendo por Acción dividido por el Precio de la Acción. Esto se mide como un promedio de los valores históricos de los últimos 5 años. https://www.stockopedia.com/ratios/dividend-yield-5y-avg-284/ https://www.investopedia.com/terms/d/dividendyield.asp |
+| floatShares |Las acciones flotantes son el número de acciones disponibles para negociar de una acción en particular. Las acciones de baja flotación son aquellas con un bajo número de acciones. Las acciones flotantes se calculan restando las acciones de propiedad cerrada y las acciones restringidas del total de acciones en circulación de una empresa. https://www.investopedia.com/terms/f/floating-stock.asp https://www.investopedia.com/ask/answers/what-is-companys-float/  |
+| forwardEps |  |
+| forwardPE | La relación precio-beneficio a plazo es una versión de la relación precio-beneficio (P/E) que utiliza las ganancias pronosticadas para el cálculo de P/E. Si bien las ganancias utilizadas en esta fórmula son solo una estimación y no son tan confiables como los datos de ganancias actuales o históricos, aún existen beneficios en el análisis P/E estimado. https://corporatefinanceinstitute.com/resources/knowledge/valuation/forward-pe-ratio/ https://www.investopedia.com/terms/f/forwardpe.asp |
+| fullTimeEmployees | Empleados a tiempo completo |
+| grossMargins | El margen bruto es la diferencia entre los ingresos y el costo de los bienes vendidos (COGS) dividido por los ingresos. El margen bruto se expresa como un porcentaje. Generalmente, se calcula como el precio de venta de un artículo, menos el costo de los bienes vendidos (sin incluir los costos fijos indirectos) https://es.wikipedia.org/wiki/Margen_bruto |
+| grossProfits | La ganancia bruta representa el ingreso o la ganancia que queda después de restar los costos de producción de los ingresos. Los ingresos son la cantidad de ingresos generados por la venta de bienes y servicios de una empresa. El beneficio bruto ayuda a los inversores a determinar cuánto beneficio obtiene una empresa de la producción y venta de sus bienes y servicios. La ganancia bruta a veces se denomina ingreso bruto. https://www.investopedia.com/ask/answers/101314/what-are-differences-between-gross-profit-and-net-income.asp https://en.wikipedia.org/wiki/Gross_income |
+| heldPercentInsiders |   Insider es un término que describe a un director o alto funcionario de una empresa que cotiza en bolsa, así como a cualquier persona o entidad, que posee más del 10 % de las acciones con derecho a voto de una empresa.1 A los fines del tráfico de información privilegiada, la definición se amplía para incluir cualquier persona que negocie las acciones de una empresa sobre la base del conocimiento material no público. Los iniciados deben cumplir estrictos requisitos de divulgación con respecto a la venta o compra de las acciones de su empresa. https://www.investopedia.com/terms/i/insider.asp https://www.investopedia.com/articles/stocks/05/042605.asp |
+| heldPercentInstitutions | La propiedad institucional es la cantidad de acciones disponibles de una empresa que pertenecen a fondos mutuos o de pensiones, compañías de seguros, empresas de inversión, fundaciones privadas, dotaciones u otras grandes entidades que administran fondos en nombre de otros.  |
+| industry | Industria |
+| lastFiscalYearEnd | Cierre del ultimo año fiscal |
+| lastSplitDate | Fecha del ultimo desdoblamiento de acciones |
+| lastSplitFactor | Ultimo factor de desdoblamiento de acciones https://es.wikipedia.org/wiki/Desdoblamiento_de_acciones https://www.forbes.com/advisor/investing/what-is-a-stock-split/ |
+| marketCap | La capitalización de mercado se refiere al valor de mercado total en dólares de las acciones en circulación de una empresa. Comúnmente conocida como "market cap", se calcula multiplicando el número total de acciones en circulación de una empresa por el precio de mercado actual de una acción. https://www.investopedia.com/terms/m/marketcapitalization.asp|
+| mostRecentQuarter | Fecha del ultimo trimestre |
+| netIncomeToCommon | El 'ingreso neto aplicable a las acciones ordinarias' es el ingreso que podría otorgarse a los accionistas después de deducir los impuestos, la participación no controladora y los dividendos de las acciones preferentes. https://www.thebalance.com/net-income-applicable-to-common-shares-357584 |
+| nextFiscalYearEnd | Proximo cierre de año fiscal |
+| Nombre | Descripción |
+| numberOfAnalystOpinions |  |
+| open | El precio de apertura es el precio al que se negocia por primera vez un valor en la apertura de una bolsa en un día de negociación. El precio de la primera operación de cualquier acción cotizada es su precio de apertura diario. El precio de apertura es un marcador importante para la actividad comercial de ese día, particularmente para aquellos interesados ​​en medir los resultados a corto plazo, como los comerciantes diarios. https://www.investopedia.com/terms/o/openingprice.asp |
+| operatingCashflow | El flujo de caja operativo (FCO) es la cantidad de dinero en efectivo que genera una empresa a través de sus operaciones y el ejercicio de su actividad. https://en.wikipedia.org/wiki/Operating_cash_flow https://economipedia.com/definiciones/flujo-de-caja-operativo.html |
+| operatingMargins | El margen operativo, también conocido como margen de ingreso operativo, margen de beneficio operativo, margen EBIT y rendimiento de las ventas ( ROS ), es la relación del ingreso operativo a las ventas netas, generalmente presentado en porcentaje. https://es.wikipedia.org/wiki/Margen_operativo |
+| payoutRatio | El índice de pago es una métrica financiera que muestra la proporción de las ganancias que una empresa paga a sus accionistas en forma de dividendos, expresada como un porcentaje de las ganancias totales de la empresa. En algunas ocasiones, el índice de pago se refiere a los dividendos pagados como porcentaje del flujo de caja de una empresa. La relación de pago también se conoce como la relación de pago de dividendos. https://www.investopedia.com/terms/p/payoutratio.asphttps://economipedia.com/definiciones/pay-out-ratio.html |
+| pegRatio | La relación precio/ganancias/crecimiento (relación PEG) es la relación precio/ganancias (P/E) de una acción dividida por la tasa de crecimiento de sus ganancias durante un período de tiempo específico. La relación PEG se utiliza para determinar el valor de una acción y, al mismo tiempo, tiene en cuenta el crecimiento esperado de las ganancias de la empresa, y se cree que proporciona una imagen más completa que la relación P/E más estándar. https://es.wikipedia.org/wiki/Ratio_PEG https://www.investopedia.com/terms/p/pegratio.asp |
+| previousClose | El cierre anterior es el precio de cierre de un valor en el período de tiempo anterior al que se hace referencia. El cierre anterior casi siempre se refiere al precio final del día anterior de un valor cuando el mercado cierra oficialmente ese día. Puede aplicarse a un contrato de acciones, bonos, materias primas, futuros u opciones, índices de mercado o cualquier otro valor. https://www.investopedia.com/terms/p/previousclose.asp |
+| priceToBook | La 'relación precio-valor contable' compara el valor de mercado de una empresa con su valor contable. El valor de mercado de una empresa es el precio de sus acciones multiplicado por el número de acciones en circulación. El valor en libros es el activo neto de una empresa. https://es.wikipedia.org/wiki/Ratio_precio-valor_contable https://www.investopedia.com/terms/p/price-to-bookratio.asp |
+| priceToSalesTrailing12Months | El período típico de 12 meses que se usa para las ventas en la relación P/S es generalmente los últimos cuatro trimestres (también llamados 12 meses posteriores o TTM), o el año fiscal (FY) más reciente o actual. Una relación P/S que se basa en las ventas pronosticadas para el año en curso se denomina relación P/S a futuro. https://www.investopedia.com/terms/p/price-to-salesratio.asp |
+| profitMargins | El margen de beneficio, el margen neto, el margen de beneficio neto o el índice de beneficio neto es una medida de la rentabilidad. Se calcula al encontrar la ganancia neta como un porcentaje de los ingresos. https://es.wikipedia.org/wiki/Margen_de_beneficio |
+| quickRatio |  El índice rápido es un indicador de la posición de liquidez a corto plazo de una empresa y mide la capacidad de una empresa para cumplir con sus obligaciones a corto plazo con sus activos más líquidos. https://www.investopedia.com/terms/q/quickratio.asp https://www.investopedia.com/ask/answers/062714/what-are-main-differences-between-current-ratio-and-quick-ratio.asp|
+| regularMarketDayHigh |  |
+| regularMarketDayLow |  |
+| regularMarketOpen |  |
+| regularMarketPreviousClose |  |
+| regularMarketVolume |  |
+| returnOnAssets | La rentabilidad económica mide la tasa de devolución producida por un beneficio económico (anterior a los intereses y los impuestos) respecto al capital total, incluyendo todas las cantidades prestadas y el patrimonio neto (que sumados forman el activo total). Además es totalmente independiente de la estructura financiera de la empresa https://es.wikipedia.org/wiki/Rentabilidad_econ%C3%B3mica https://www.investopedia.com/terms/r/returnonassets.asp |
+| returnOnEquity | En finanzas, la rentabilidad financiera, rentabilidad para el accionista o «ROE» (por sus iniciales en inglés, Return on equity) relaciona el beneficio económico con los recursos propios necesarios para obtener ese lucro. Para una empresa, el ROE indica la rentabilidad que obtienen los accionistas (únicos proveedores de capital que no tienen una rentabilidad asegurada) sobre el capital que han invertido, excluyendo recursos de terceros, como la deuda financiera. La rentabilidad financiera puede entenderse como una medida del beneficio que obtiene una compañía con relación a los fondos invertidos por los accionistas. Se suele expresar como porcentaje https://es.wikipedia.org/wiki/Rentabilidad_financiera https://www.investopedia.com/terms/r/returnonequity.asp |
+| revenueGrowth | El 'revenueGrowth' ilustra los aumentos/disminuciones de los ingresos a lo largo del tiempo. Se utiliza para medir qué tan rápido se está expandiendo un negocio. https://ycharts.com/glossary/terms/revenue_growth |
+| revenuePerShare | Las ventas por acción son una proporción que calcula los ingresos totales obtenidos por acción durante un período designado, ya sea trimestral, semestral, anual o de los últimos doce meses (TTM). Se calcula dividiendo los ingresos totales por el promedio total de acciones en circulación. También se conoce como "ingresos por acción (revenue per share)". https://www.investopedia.com/terms/s/salespershare.asp|
+| sector | Sector |
+| sharesOutstanding | Las acciones en circulación se refieren a las acciones de una empresa actualmente en poder de todos sus accionistas, incluidos los bloques de acciones en manos de inversores institucionales y las acciones restringidas propiedad de los funcionarios y personas con información privilegiada de la empresa. Las acciones en circulación se muestran en el balance de una empresa bajo el título "Capital social". https://en.wikipedia.org/wiki/Shares_outstanding https://www.investopedia.com/terms/o/outstandingshares.asp |
+| sharesPercentSharesOut |  |
+| sharesShort |  |
+| sharesShortPriorMonth |  |
+| shortName | Nombre de la compañía |
+| shortPercentOfFloat |  |
+| shortRatio |  |
+| symbol | Simbolo de la empresa en NASDAQ |
+| targetHighPrice |  |
+| targetLowPrice |  |
+| targetMeanPrice |  |
+| totalCash | El dinero efectivo (habitualmente denominado dinero en efectivo o solo efectivo) es el dinero en forma de monedas o papel moneda (billetes) que se utiliza para realizar pagos y depósitos. https://www.investopedia.com/terms/c/cash.asp https://es.wikipedia.org/wiki/Dinero_en_efectivo |
+| totalCashPerShare |  |
+| totalDebt | La deuda es algo, generalmente dinero, que una parte toma prestado de otra. Muchas corporaciones e individuos utilizan la deuda para hacer grandes compras que no podrían pagar en circunstancias normales. Un acuerdo de deuda le da a la parte prestataria permiso para pedir prestado dinero con la condición de que se pague en una fecha posterior, generalmente con intereses. https://en.wikipedia.org/wiki/Debt https://www.investopedia.com/terms/d/debt.asp |
+| totalRevenue |  |
+| trailingAnnualDividendRate |  |
+| trailingAnnualDividendYield |  |
+| trailingEps | Las ganancias finales por acción (EPS, por sus siglas en inglés) son las ganancias de una empresa generadas durante un período anterior (a menudo un año fiscal) informadas por acción. https://www.investopedia.com/terms/t/trailingeps.asp https://financial-dictionary.thefreedictionary.com/Trailing+EPS |
+| trailingPE |  |
+| twoHundredDayAverage |  |
+| volume |
+
 
 
 
@@ -111,4 +107,3 @@
 |Volumen          ||
 |Dividends          ||
 |Stock Splits          ||
-
